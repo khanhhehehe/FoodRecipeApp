@@ -1,4 +1,4 @@
-![Screenshot_1694420417](https://github.com/khanhhehehe/FoodRecipeApp/assets/117183565/c8a9619d-9733-41c6-82b2-0e085d8d0ae0)# FoodRecipeApp
+# FoodRecipeApp
 An application that helps people share delicious recipes with each other and thereby build family happiness with those delicious dishes.
 ![Screenshot_1694420417](https://github.com/khanhhehehe/FoodRecipeApp/assets/117183565/f4cba014-f2c9-4ef0-97ae-1c8ca45cebf9)
 ![Screenshot_1694420430](https://github.com/khanhhehehe/FoodRecipeApp/assets/117183565/d74fca65-0a98-46c8-8e0c-f84414642ac5)
